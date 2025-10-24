@@ -73,8 +73,5 @@ The interactive dashboard highlights:
 ## 🚀 Conclusion
 This project demonstrates the complete data analytics lifecycle — from data cleaning and analysis to visualization and strategic recommendations. It can be extended further using predictive models to forecast customer lifetime value or churn probability.
 
----
 
-## 🤝 Connect with Me
-If you found this project interesting, feel free to connect on **[LinkedIn](www.linkedin.com/in/naman-patel-4354a3200)** or ⭐ this repo to show support!
 
